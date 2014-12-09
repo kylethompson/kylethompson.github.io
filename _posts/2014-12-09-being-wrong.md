@@ -3,7 +3,6 @@ layout: post
 title:  "Being Wrong"
 description: "Being wrong is a daily part of our lives, learning to recognise and adapt is an important skill to have."
 date:   2014-12-09 22:00:00
-categories: introduction
 ---
 
 Ah the familiar embrace of being wrong, almost daily it visits to remind us that we aren't half as clever as we think we are. Despite this, how often have you found yourself in an environment where a team have to pretend something was right or in some way aren't allowed to openly acknowledge the elephant of wrongness in the room?	See if any of these sound familiar:
