@@ -2,7 +2,7 @@
 layout: post
 title:  "Being Wrong"
 description: "Being wrong is a daily part of our lives, learning to recognise and adapt is an important skill to have."
-date:   2014-12-07 00:05:00
+date:   2014-12-09 22:00:00
 categories: introduction
 ---
 
