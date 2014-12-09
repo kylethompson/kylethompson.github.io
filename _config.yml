@@ -1,0 +1,32 @@
+# Site settings
+title: Kyle's Blog
+email: kylethompson86@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Mostly gibberish.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kylethompson.co.uk" # the base hostname & protocol for your site
+twitter_username: kylethompson86
+github_username:  kylethompson
+
+# Build settings
+markdown: kramdown
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-57411294-1'
+  getclicky :
+    site_id :
+
+ # Settings for comments helper
+ # Set 'provider' to the comment provider you want to use.
+ # Set 'provider' to false to turn commenting off globally.
+ #
+  comments :
+    provider : disqus
+    disqus :
+      short_name : kylethompson86
